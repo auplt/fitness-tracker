@@ -1,0 +1,5 @@
+# IDE - VSCode
+.vscode/
+
+# test data folder
+data/
